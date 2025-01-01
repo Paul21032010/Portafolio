@@ -15,7 +15,7 @@ body {
   font-size: 16px;
   line-height: 20px;
   letter-spacing: 0.2em;
-  background: linear-gradient(180deg, #392657 0%, rgba(57, 38, 87, 0.8) 100%);
+  background: linear-gradient(180deg, #ff0000 0%, rgba(0, 0, 0, 0.8) 50%);
   color: #ffffff;
 }
 
@@ -76,7 +76,7 @@ ul {
   width: 55%;
   height: 3px;
   bottom: -12px;
-  background: #a178b9;
+  background: #ffffff;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 
@@ -100,7 +100,7 @@ ul {
   letter-spacing: 0.3em;
   font-size: 70px;
   text-align: center;
-  color: #a178b9;
+  color: #000000;
   line-height: 1;
   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
@@ -120,7 +120,7 @@ ul {
   font-size: 60px;
   position: relative;
   text-align: left;
-  color: #cc8bf2;
+  color: #ffffff;
   line-height: 1;
   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   display: flex;
@@ -164,7 +164,7 @@ ul {
   font-size: 60px;
   position: relative;
   text-align: left;
-  color: #cc8bf2;
+  color: #ffffff;
   line-height: 1;
   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   display: flex;
@@ -247,7 +247,7 @@ ul {
   width: 55%;
   height: 3px;
   bottom: -12px;
-  background: #a178b9;
+  background: #000000;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 
@@ -266,7 +266,7 @@ ul {
   font-size: 60px;
   position: relative;
   text-align: left;
-  color: #cc8bf2;
+  color: #ffffff;
   line-height: 1;
   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   display: flex;
@@ -301,8 +301,8 @@ ul {
 .form__input {
   width: 100%;
   font: inherit;
-  background: #392657;
-  border: 2px solid #a178b9;
+  background: #000000; 
+  border: 2px solid #000000;
   color: #fff;
   padding: 15px;
   border-radius: 10px;
